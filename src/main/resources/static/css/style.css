@@ -1,0 +1,7 @@
+.location-link {
+    color: greenyellow;
+}
+
+.location-link:hover {
+    color: lawngreen;
+}
